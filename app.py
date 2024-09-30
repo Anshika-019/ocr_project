@@ -3,8 +3,6 @@ from ocr_module import OCRProcessor
 import tempfile
 from PIL import Image
 
-ocr_processor = OCRProcessor()
-
 def ocr_and_search(image, keyword):
     # Save the image to a temporary file
     with tempfile.NamedTemporaryFile(delete=False, suffix=".png") as temp_file:

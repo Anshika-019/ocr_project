@@ -239,8 +239,8 @@ class OCRProcessor:
         processor = TrOCRProcessor.from_pretrained('microsoft/trocr-base-handwritten')
         return processor.batch_decode(result, skip_special_tokens=True)[0]
 
-# Example usage
-image_path = 'assets/image.png'
-ocr_processor = OCRProcessor()
-extracted_text = ocr_processor.process_image(image_path)
-print("Extracted Text:", extracted_text)
+# # Example usage
+# image_path = 'assets/image.png'
+# ocr_processor = OCRProcessor()
+# extracted_text = ocr_processor.process_image(image_path)
+# print("Extracted Text:", extracted_text)
