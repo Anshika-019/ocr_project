@@ -1,0 +1,13 @@
+image,Keyword,Extracted Text,Highlighted Text,flag,username,timestamp
+flagged\image\9265a0a1015d1b3108d8\image.png,shape,Processed <PIL.Image.Image image mode=RGB size=1400x1370 at 0x1A0BA52DB50>,Processed <PIL.Image.Image image mode=RGB size=1400x1370 at 0x1A0BA52DB50>,,,2024-09-28 01:46:04.756410
+flagged\image\4ebbeb46cbdc51985550\image.png,shape,Processed <PIL.Image.Image image mode=RGB size=1400x1370 at 0x1A0BA52DB50>,Processed <PIL.Image.Image image mode=RGB size=1400x1370 at 0x1A0BA52DB50>,,,2024-09-28 01:46:14.020051
+flagged\image\48a913b4662709424c0c\image.png,shape,Processed <PIL.Image.Image image mode=RGB size=1400x1370 at 0x1A0BA52DB50>,Processed <PIL.Image.Image image mode=RGB size=1400x1370 at 0x1A0BA52DB50>,,,2024-09-28 01:46:15.933517
+flagged\image\427fd0a029b3c3a233ed\image.png,shape,Processed <PIL.Image.Image image mode=RGB size=1400x1370 at 0x1A0BA52DB50>,Processed <PIL.Image.Image image mode=RGB size=1400x1370 at 0x1A0BA52DB50>,,,2024-09-28 01:46:42.456760
+flagged\image\4f3d73e898bce427b108\image.png,trie,Processed <PIL.Image.Image image mode=RGB size=1400x1370 at 0x2200591B880>,Processed <PIL.Image.Image image mode=RGB size=1400x1370 at 0x2200591B880>,,,2024-09-28 01:58:47.605954
+flagged\image\b40f043f1dc2d585b7ae\AnshikaPandey_CV_page-0001.jpg,Anshika,Processed <PIL.Image.Image image mode=RGB size=1275x1650 at 0x275A4122730>,Processed <PIL.Image.Image image mode=RGB size=1275x1650 at 0x275A4122730>,,,2024-09-28 02:05:32.651958
+flagged\image\cac7f4c9f939c72be6b8\AnshikaPandey_CV_page-0001.jpg,Anshika,Processed <PIL.Image.Image image mode=RGB size=1275x1650 at 0x275A4122730>,Processed <PIL.Image.Image image mode=RGB size=1275x1650 at 0x275A4122730>,,,2024-09-28 02:05:35.277232
+flagged\image\0d4df54cf30e38484eb2\AnshikaPandey_CV_page-0001.jpg,Anshika,0 0,0 0,,,2024-09-28 02:48:06.621285
+flagged\image\16ea2a6bdeb7bd0c002a\AnshikaPandey_CV_page-0001.jpg,Anshika,0 0,0 0,,,2024-09-28 02:48:09.763235
+flagged\image\6c2380ce0aa8866831ab\AnshikaPandey_CV_page-0001.jpg,ANSHIKA,0 0,0 0,,,2024-09-28 02:48:28.431250
+flagged\image\592a0af08c862dddaec7\AnshikaPandey_CV_page-0001.jpg,Java,0 0,0 0,,,2024-09-28 02:51:10.278608
+flagged\image\f40533b4cdb41299f9ae\AnshikaPandey_CV_page-0001.jpg,Image,,,,,2024-09-28 03:02:22.071117
